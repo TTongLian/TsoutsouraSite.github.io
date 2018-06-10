@@ -1,0 +1,45 @@
+/* -----------------------Left menu -------------------------*/
+#menu{
+    border-right: double;
+    height: 100%;
+}
+
+ul.nav.flex-column{
+    margin-top: 120px;
+}
+
+a.nav-link{
+    text-align: center;
+    color: #800000;
+}
+
+/* ----------------------main--------------------------------*/
+#name-div{
+    border-bottom: double;
+    color: #800000;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    text-align: right;
+    margin-right: 40px;
+}
+
+
+/* ----------------------research--------------------------- */
+h4{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#papers{
+    margin-top: 25px;
+    margin-right: 40px;
+}
+
+.paper{
+    /* border-bottom:double; */
+    margin-bottom: 20px;
+}
